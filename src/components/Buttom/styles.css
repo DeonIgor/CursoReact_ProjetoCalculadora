@@ -1,0 +1,30 @@
+
+.buttom-container {
+    padding: 2px;
+}
+
+.buttom-container button {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 1em;
+    border-radius: 5px;
+    border: 1px solid #ececec;
+}
+
+.number {
+    background-color: #fff;
+}
+.number:active {
+    background-color: rgb(255, 255, 255, 0.5);
+    color: #bbb;
+}
+
+.eq {
+    background-color: #454E5E;
+    color: #fff;
+}
+.eq:active {
+    background-color: #454e5ed8;
+    color: rgba(255, 255, 255, 0.5);
+}
